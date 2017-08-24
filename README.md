@@ -1,4 +1,4 @@
-# Admin tools for AssaultCube (v0.3.0)
+# Admin tools for AssaultCube (v0.5.0)
 
 ## Installation
 
